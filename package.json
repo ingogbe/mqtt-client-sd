@@ -24,7 +24,7 @@
     "passport": "^0.4.1",
     "passport-local": "*",
     "react": "^16.13.0",
-    "minimist": ">=1.2.2"
+    "minimist": ">=1.2.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
